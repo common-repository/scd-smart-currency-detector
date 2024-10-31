@@ -1,0 +1,841 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: SCM - Smart Currency Manager\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-11-02 12:38+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.2; wp-6.0.3\n"
+"X-Domain: ch_scd_woo"
+
+#: scd_for_marketplace_install.php:377 scd_for_marketplace_install.php:684
+#: scd_for_marketplace_install.php:992 scd_for_marketplace_install.php:1300
+msgid "  and install it manually."
+msgstr ""
+
+#: scd_for_marketplace_install.php:377 scd_for_marketplace_install.php:684
+#: scd_for_marketplace_install.php:992 scd_for_marketplace_install.php:1300
+msgid "  by clicking here"
+msgstr ""
+
+#: scd_settings.php:303
+msgid "  Support."
+msgstr ""
+
+#: scd_inofs.php:639
+msgid " and we will be happy to help."
+msgstr ""
+
+#: scd_inofs.php:644
+msgid " Download for free <strong> SCM premium 14 days trial "
+msgstr ""
+
+#: scd_settings.php:308
+msgid " for more usage informations."
+msgstr ""
+
+#: scd_inofs.php:639
+msgid " for this plugin. Feel free to open a support ticket at "
+msgstr ""
+
+#: scd_settings.php:308
+msgid " here"
+msgstr ""
+
+#: scd_inofs.php:642
+msgid " Limited features "
+msgstr ""
+
+#: scd_inofs.php:652
+msgid " Other"
+msgstr ""
+
+#: scd_inofs.php:660
+msgid " Please insert a valid Comment"
+msgstr ""
+
+#: scd_inofs.php:658
+msgid " Please insert a valid email"
+msgstr ""
+
+#: scd_for_marketplace_install.php:198 scd_for_marketplace_install.php:504
+#: scd_for_marketplace_install.php:810 scd_for_marketplace_install.php:1118
+msgid " This variant has limited features  when you use"
+msgstr ""
+
+#: scd_inofs.php:639
+msgid " We offer "
+msgstr ""
+
+#: scd_settings.php:308
+msgid " You can download the scm documentation"
+msgstr ""
+
+#: scd_currencies_settings_form.php:25
+msgid ")"
+msgstr ""
+
+#: scd_inofs.php:104 scd_inofs.php:216 scd_inofs.php:331 scd_inofs.php:446
+msgid ",if you have not yet installed ."
+msgstr ""
+
+#: scd_general_settings_form.php:389
+msgid "Add Currency"
+msgstr ""
+
+#: scd_general_settings_form.php:386
+msgid ""
+"Add each currency for which you want to manually specify the exchange rate, "
+"a percentage based price increase, or the display format. For currencies not "
+"included in the table, the normal exchange rate and default display format "
+"will be used"
+msgstr ""
+
+#: index.php:107
+msgid "Add this rate"
+msgstr ""
+
+#: scd_currencies_settings_form.php:86 scd_currencies_settings_form.php:87
+#: scd_currencies_settings_form.php:211 scd_currencies_settings_form.php:212
+#: scd_settings.php:55
+msgid "All"
+msgstr ""
+
+#: scd_currencies_settings_form.php:361
+msgid "All Pages"
+msgstr ""
+
+#: scd_currencies_settings_form.php:24
+msgid "Base Currency"
+msgstr ""
+
+#: scd_general_settings_form.php:439
+msgid ""
+"By default, it is assumed that all pricetags will have a CSS class named "
+"\"amount\". But in some rare themes, pricetags can have different classes. "
+"If the tooltip is not showing on any particular price, enter the CSS "
+"selector of that pricetag here. You can enter multiple CSS selectors (comma-"
+"seperated)."
+msgstr ""
+
+#: scd_inofs.php:791
+msgid "Cancel"
+msgstr ""
+
+#: scd_for_marketplace_install.php:380 scd_for_marketplace_install.php:687
+#: scd_for_marketplace_install.php:995 scd_for_marketplace_install.php:1303
+msgid "Cancel and return to the dashboard"
+msgstr ""
+
+#: scd_currencies_settings_form.php:320
+msgid "Center"
+msgstr ""
+
+#: scd_inofs.php:639
+msgid "Comments"
+msgstr ""
+
+#: index.php:395 scd_settings.php:102
+msgid "CURRENCIES SETTINGS"
+msgstr ""
+
+#: scd_general_settings_form.php:394 scd_settings.php:46
+msgid "Currency"
+msgstr ""
+
+#: scd_settings.php:119
+msgid "Customize currency options and exchange rates"
+msgstr ""
+
+#: scd_general_settings_form.php:109
+msgid "Day(s)"
+msgstr ""
+
+#: scd_general_settings_form.php:268
+msgid "Default"
+msgstr ""
+
+#: scd_general_settings_form.php:390
+msgid "Default currency: "
+msgstr ""
+
+#: scd_settings.php:124
+msgid "Default/Fallback store currency"
+msgstr ""
+
+#: scd_settings.php:121
+msgid "Delete settings when plugin is uninstalled"
+msgstr ""
+
+#: scd_settings.php:127
+msgid "Display the currency menu"
+msgstr ""
+
+#: scd_for_marketplace_install.php:504
+msgid "DOKAN marketplace"
+msgstr ""
+
+#: scd_inofs.php:216
+msgid "Dokan marketplace"
+msgstr ""
+
+#: scd_inofs.php:104 scd_inofs.php:216 scd_inofs.php:331 scd_inofs.php:446
+msgid "Download here"
+msgstr ""
+
+#: scd_settings.php:125
+msgid "Enable decimal numbers display"
+msgstr ""
+
+#: scd_settings.php:132
+msgid "Enable mobile currency conversion widget"
+msgstr ""
+
+#: scd_settings.php:117
+msgid "Enable multiple currencies payment"
+msgstr ""
+
+#: scd_currencies_settings_form.php:131
+msgid ""
+"Enable the display of decimal numbers in your webpage, for the resulting "
+"prices. If enabled you can select the number of decimals within the next "
+"setting. If not the decimals are removed after conversion."
+msgstr ""
+
+#: scd_inofs.php:656
+msgid "Enter your email"
+msgstr ""
+
+#: scd_inofs.php:105 scd_inofs.php:217 scd_inofs.php:332 scd_inofs.php:447
+msgid ""
+"extends vendor dashboard to allow each vendor to define the default currency "
+"in which the want to enter their products prices."
+msgstr ""
+
+#: scd_settings.php:123
+msgid "Filter currencies enabled for your store"
+msgstr ""
+
+#: scd_settings.php:134
+msgid "Filter page to display widget"
+msgstr ""
+
+#: scd_currencies_settings_form.php:79
+msgid ""
+"Filter which currencies are available to the end users. You can use this "
+"setting to specify the set of curencies that your store supports. Selecting "
+"\"All\" means that all currencies are available and enabled. If the SCM "
+"widget is included on the webpage, only the enabled currencies will be "
+"included in the widget selection list."
+msgstr ""
+
+#: scd_currencies_settings_form.php:89
+msgid "Fixed currencies"
+msgstr ""
+
+#: scd_currencies_settings_form.php:27
+msgid "Fixed currency"
+msgstr ""
+
+#: scd_currencies_settings_form.php:214
+msgid "Fixed locations"
+msgstr ""
+
+#: scd_settings.php:301
+msgid "For any questions and issues, please contact the Gajelabs team."
+msgstr ""
+
+#: scd_inofs.php:639
+msgid "free support"
+msgstr ""
+
+#. Author of the plugin
+msgid "GaJeLabs"
+msgstr ""
+
+#: index.php:394 scd_settings.php:101
+msgid "GENERAL SETTINGS"
+msgstr ""
+
+#: index.php:552
+msgid "Get SCM Marketplace pro"
+msgstr ""
+
+#: index.php:551
+msgid "Get SCM Marketplace variant"
+msgstr ""
+
+#: index.php:396 scd_settings.php:103
+msgid "HELP & SUPPORT"
+msgstr ""
+
+#: index.php:524 scd_inofs.php:644 scd_inofs.php:644
+msgid "here"
+msgstr ""
+
+#: scd_general_settings_form.php:108
+msgid "Hour(s)"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://gajelabs.com."
+msgstr ""
+
+#. URI of the plugin
+msgid "http://gajelabs.com/"
+msgstr ""
+
+#: scd_inofs.php:648
+msgid "I have a conflict with another plugin"
+msgstr ""
+
+#: scd_currencies_settings_form.php:279
+msgid ""
+"if this setting is checked, it allows you to use a mobile currency "
+"conversion widget that you have a possibility to move on anywhere on your "
+"website."
+msgstr ""
+
+#: scd_currencies_settings_form.php:51
+msgid ""
+"If this setting is checked, the currency used for display and payment will "
+"be selected according to the users location. E.g. a customer located in the "
+"USA will see products prices in USD. A customer located in France will see "
+"the same products displayed in EUR. You can use the next setting to limit "
+"the set of currencies available for your store."
+msgstr ""
+
+#: scd_general_settings_form.php:422
+msgid ""
+"If this setting is checked, uninstalling the plugin will delete all plugin "
+"data including all your custom settings. If you want to be able to reinstall "
+"the plugin and maintain all your settings, uncheck this box "
+msgstr ""
+
+#: scd_inofs.php:644
+msgid "If you are currently using SCM FREE version please"
+msgstr ""
+
+#: scd_inofs.php:631
+msgid "If you have a moment, please let us know why you are deactivating:"
+msgstr ""
+
+#: scd_inofs.php:216
+msgid ""
+"in your store, you can trial during 7 days SCM premium variant for Dokan."
+msgstr ""
+
+#: scd_inofs.php:446
+msgid ""
+"in your store, you can trial during 7 days SCM premium variant for WC-Vendor."
+msgstr ""
+
+#: scd_inofs.php:104
+msgid ""
+"in your store, you can trial during 7 days SCM premium variant for WCFM."
+msgstr ""
+
+#: scd_inofs.php:331
+msgid ""
+"in your store, you can trial during 7 days SCM premium variant for WCMP."
+msgstr ""
+
+#: scd_for_marketplace_install.php:504
+msgid "in your store. You can install SCM variant for Dokan."
+msgstr ""
+
+#: scd_for_marketplace_install.php:1118
+msgid "in your store. You can install SCM variant for WC-Vendor."
+msgstr ""
+
+#: scd_for_marketplace_install.php:198
+msgid "in your store. You can install SCM variant for WCFM."
+msgstr ""
+
+#: scd_for_marketplace_install.php:810
+msgid "in your store. You can install SCM variant for WCMP."
+msgstr ""
+
+#: scd_general_settings_form.php:398
+msgid "Increase"
+msgstr ""
+
+#: scd_for_marketplace_install.php:506
+msgid "Install SCM for Dokan"
+msgstr ""
+
+#: scd_for_marketplace_install.php:1120
+msgid "Install SCM for WC-Vendor"
+msgstr ""
+
+#: scd_for_marketplace_install.php:200
+msgid "Install SCM for WCFM"
+msgstr ""
+
+#: scd_for_marketplace_install.php:812
+msgid "Install SCM for WCMP"
+msgstr ""
+
+#: scd_inofs.php:646
+msgid "It's a temporary deactivation. I'm just debugging an issue."
+msgstr ""
+
+#: scd_inofs.php:654
+msgid "Kindly tell us the reason so we can improve."
+msgstr ""
+
+#: scd_currencies_settings_form.php:321
+msgid "Left"
+msgstr ""
+
+#: scd_general_settings_form.php:268
+msgid "Left ($79)"
+msgstr ""
+
+#: scd_general_settings_form.php:268
+msgid "Left Country (AUD 79$)"
+msgstr ""
+
+#: scd_general_settings_form.php:268
+msgid "Left Space ($ 79)"
+msgstr ""
+
+#: scd_widget.php:7
+msgid "Lets the visitor choose their preferred currency"
+msgstr ""
+
+#: scd_settings.php:120
+msgid "Manual currency options"
+msgstr ""
+
+#: index.php:552
+msgid "Marketplace pro"
+msgstr ""
+
+#: index.php:551
+msgid "Marketplace variant"
+msgstr ""
+
+#: scd_settings.php:129
+msgid "Menu position"
+msgstr ""
+
+#: scd_settings.php:128
+msgid "Menu title"
+msgstr ""
+
+#: scd_settings.php:126
+msgid "Number of decimals"
+msgstr ""
+
+#: scd_inofs.php:644
+msgid "or get our products"
+msgstr ""
+
+#: index.php:390
+msgid "Please do not change anything here unless you know what you are doing."
+msgstr ""
+
+#: index.php:108
+msgid ""
+"Please give some numeric value for exchange rate. For example 3 or 4.56 or 0."
+"67"
+msgstr ""
+
+#: scd_inofs.php:639 scd_inofs.php:644 scd_inofs.php:654
+msgid "Please write here..."
+msgstr ""
+
+#: scd_settings.php:318
+msgid ""
+"Please, follow us and leave us your comments for improvements and a strong "
+"collaboration & partnership."
+msgstr ""
+
+#: scd_general_settings_form.php:195 scd_general_settings_form.php:268
+#: scd_general_settings_form.php:402
+msgid "Position"
+msgstr ""
+
+#: scd_settings.php:133
+msgid "Position of the Widget"
+msgstr ""
+
+#: scd_settings.php:467
+msgid "Price is not specified"
+msgstr ""
+
+#: scd_currencies_settings_form.php:363
+msgid "Product Page"
+msgstr ""
+
+#: scd_settings.php:138
+msgid "Product price by currency"
+msgstr ""
+
+#: scd_general_settings_form.php:396
+msgid "Rate"
+msgstr ""
+
+#: index.php:109
+msgid "Remove this rate"
+msgstr ""
+
+#: scd_for_marketplace_install.php:686
+msgid "retry to install scm dokan"
+msgstr ""
+
+#: scd_for_marketplace_install.php:1302
+msgid "retry to install scm WC-Vendor"
+msgstr ""
+
+#: scd_for_marketplace_install.php:379
+msgid "retry to install scm wcfm"
+msgstr ""
+
+#: scd_for_marketplace_install.php:994
+msgid "retry to install scm wcmp"
+msgstr ""
+
+#: scd_currencies_settings_form.php:319 scd_settings.php:52 scd_settings.php:53
+msgid "Right"
+msgstr ""
+
+#: scd_general_settings_form.php:268
+msgid "Right (79$)"
+msgstr ""
+
+#: scd_general_settings_form.php:268
+msgid "Right Country ($79 AUD)"
+msgstr ""
+
+#: scd_general_settings_form.php:268
+msgid "Right Space (79 $)"
+msgstr ""
+
+#: index.php:451
+msgid "Save Changes"
+msgstr ""
+
+#: scd_for_marketplace_install.php:127 scd_for_marketplace_install.php:306
+#: scd_for_marketplace_install.php:433 scd_for_marketplace_install.php:613
+#: scd_for_marketplace_install.php:739 scd_for_marketplace_install.php:921
+#: scd_for_marketplace_install.php:1047 scd_for_marketplace_install.php:1229
+msgid "SCM &rsaquo; Setup Wizard"
+msgstr ""
+
+#: scd_inofs.php:627
+msgid "SCM - QUICK FEEDBACK"
+msgstr ""
+
+#. Name of the plugin
+msgid "SCM - Smart Currency Manager"
+msgstr ""
+
+#: index.php:478
+msgid "SCM Currencies"
+msgstr ""
+
+#: scd_inofs.php:217
+msgid "SCM premium variant for Dokan"
+msgstr ""
+
+#: scd_inofs.php:447
+msgid "SCM premium variant for WC-Vendor"
+msgstr ""
+
+#: scd_inofs.php:105
+msgid "SCM premium variant for WCFM"
+msgstr ""
+
+#: scd_inofs.php:332
+msgid "SCM premium variant for WCMP"
+msgstr ""
+
+#: index.php:522
+msgid "SCM Smart-Currency-Manager"
+msgstr ""
+
+#: index.php:549
+msgid "SCM Support"
+msgstr ""
+
+#: index.php:553
+msgid "SCM Tutoriel"
+msgstr ""
+
+#: scd_widget.php:7
+msgid "SCM Widget"
+msgstr ""
+
+#: scd_general_settings_form.php:440
+msgid "See documentation for details."
+msgstr ""
+
+#: index.php:588
+msgid "Select a country here..."
+msgstr ""
+
+#: scd_settings.php:122
+msgid "Select currency based on user location"
+msgstr ""
+
+#: scd_currencies_settings_form.php:209
+msgid "Select menu location"
+msgstr ""
+
+#: scd_currencies_settings_form.php:359
+msgid "Select page"
+msgstr ""
+
+#: scd_currencies_settings_form.php:317
+msgid "Select position"
+msgstr ""
+
+#: scd_currencies_settings_form.php:19
+msgid ""
+"Select the default currency to use for your store. This currency will be "
+"selected for display if location based currency selection is not enabled or "
+"if the currency corresponding to the user location is not in the list of "
+"enabled currencies for your store. The default value of this setting is to "
+"use the \"Base Currency\", which is the currency selected in the woocommerce "
+"setting"
+msgstr ""
+
+#: scd_currencies_settings_form.php:206
+msgid ""
+"Select the menu location in the active theme in which the currency menu will "
+"be displayed"
+msgstr ""
+
+#: scd_general_settings_form.php:399
+msgid ""
+"Set a custom currency symbol for this currency or leave empty to use the "
+"default symbol"
+msgstr ""
+
+#: scd_general_settings_form.php:397
+msgid "Set an additionnal percentage to apply on top of the exchange rate"
+msgstr ""
+
+#: scd_general_settings_form.php:187 scd_general_settings_form.php:260
+#: scd_widget.php:27
+msgid "Set currency"
+msgstr ""
+
+#: scd_general_settings_form.php:90
+msgid "Set intervals for automatic currencies updates in hours or days."
+msgstr ""
+
+#: scd_general_settings_form.php:401
+msgid ""
+"Set the currency symbol position for display. Select default to use the "
+"defaut woocommerce setting"
+msgstr ""
+
+#: scd_general_settings_form.php:395
+msgid ""
+"Set the exchange rate to use for this currency (e.g. 0.74) or leave empty to "
+"use the normal exchange rate"
+msgstr ""
+
+#: scd_currencies_settings_form.php:84
+msgid "Set user currencies"
+msgstr ""
+
+#: scd_currencies_settings_form.php:166
+msgid "Sets the number of digits after the decimal point."
+msgstr ""
+
+#: index.php:600
+msgid "Settings"
+msgstr ""
+
+#: scd_currencies_settings_form.php:364
+msgid "Shop and Product Pages"
+msgstr ""
+
+#: scd_currencies_settings_form.php:362
+msgid "Shop Page"
+msgstr ""
+
+#: scd_currencies_settings_form.php:453 scd_settings.php:56
+msgid "SHOPPERS! CHOOSE YOUR CURRENCY HERE ..."
+msgstr ""
+
+#: scd_settings.php:136
+msgid "Show Mobile Widget Pop-Up"
+msgstr ""
+
+#: scd_inofs.php:693
+msgid "Skip & Deactivate"
+msgstr ""
+
+#: scd_inofs.php:102 scd_inofs.php:214 scd_inofs.php:329 scd_inofs.php:444
+msgid "SMART CURRENCY MANAGER"
+msgstr ""
+
+#: scd_inofs.php:819
+msgid "Submit &amp; Deactivate"
+msgstr ""
+
+#: index.php:549
+msgid "Support"
+msgstr ""
+
+#: scd_general_settings_form.php:206 scd_general_settings_form.php:278
+#: scd_general_settings_form.php:400
+msgid "Symbol"
+msgstr ""
+
+#: scd_inofs.php:103 scd_inofs.php:215 scd_inofs.php:330 scd_inofs.php:445
+msgid ""
+"Thank you for installing our end2end currencies handler "
+"plugin SCM."
+msgstr ""
+
+#: scd_inofs.php:637
+msgid "The plugin didn't work<br "
+msgstr ""
+
+#: scd_settings.php:130
+msgid "Theme menu location"
+msgstr ""
+
+#: scd_general_settings_form.php:140
+msgid ""
+"This setting allows you to change the default options for a currency. You "
+"can manually specify the exchange rate to use for a currency, or the "
+"additional percentage to apply on top of the exchange rate."
+msgstr ""
+
+#: scd_general_settings_form.php:28
+msgid ""
+"This setting enables or disables the use of converted prices and currencies "
+"for payments that are made using supported payment gateways like Paypal. "
+"When disabled, all payments are made in the default currency. When enabled, "
+"payments will be made in the user currency using the converted prices."
+msgstr ""
+
+#: scd_general_settings_form.php:57
+msgid ""
+"This setting lets you automatically update your exchange rate or not. If "
+"checked you can use the next setting \"Update intervals\" as well\"."
+msgstr ""
+
+#: scd_general_settings_form.php:13
+msgid ""
+"This setting rounds up the resulting foreign currency price to your "
+"convenience. It avoids several digits after comma while showing your "
+"products prices and let you make additional money out of approximations. "
+"Approximations rules: bigger than 0,5 is rounded up to 1. smaller than 0,5 "
+"is rounded to 0,5. 0,5 itself remains unchanged"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"This wordpress / woocommerce plugin is an ALL-IN-ONE solution for online "
+"market places owners, sellers, end customers."
+msgstr ""
+
+#: scd_widget.php:31
+msgid "Title:"
+msgstr ""
+
+#: index.php:524
+msgid "to access to more features"
+msgstr ""
+
+#: scd_inofs.php:644
+msgid "to enjoy all our features"
+msgstr ""
+
+#: index.php:553
+msgid "Tutorial"
+msgstr ""
+
+#: scd_general_settings_form.php:93
+msgid "Update every : "
+msgstr ""
+
+#: scd_settings.php:118
+msgid "Update intervals"
+msgstr ""
+
+#: scd_settings.php:135
+msgid "Update Mobile Widget Color"
+msgstr ""
+
+#: scd_currencies_settings_form.php:315
+msgid "Horizontal position"
+msgstr ""
+
+#: scd_currencies_settings_form.php:330
+msgid "Vertical position in pixel (px)"
+msgstr ""
+
+#: scd_for_marketplace_install.php:1118 scd_inofs.php:446
+msgid "WC-Vendor marketplace"
+msgstr ""
+
+#: scd_for_marketplace_install.php:198 scd_inofs.php:104
+msgid "WCFM marketplace"
+msgstr ""
+
+#: scd_for_marketplace_install.php:810 scd_inofs.php:331
+msgid "WCMP marketplace"
+msgstr ""
+
+#: scd_inofs.php:639
+msgid "We can help!"
+msgstr ""
+
+#: scd_inofs.php:777
+msgid "We can help: Support Service"
+msgstr ""
+
+#: scd_inofs.php:650
+msgid "What's the plugin name?"
+msgstr ""
+
+#: scd_inofs.php:104 scd_inofs.php:216 scd_inofs.php:331 scd_inofs.php:446
+msgid "When you use"
+msgstr ""
+
+#: scd_settings.php:137
+msgid "Write your Pop-Up"
+msgstr ""
+
+#: index.php:523
+msgid ""
+"You are using the free version of SCM-Smart-Currency-Manager, please get the "
+"Premium version"
+msgstr ""
+
+#: scd_settings.php:310
+msgid "You can also contact us directly on social networks."
+msgstr ""
+
+#: index.php:106
+msgid "Your Custom Exchange Rate"
+msgstr ""
+
+#: scd_inofs.php:656
+msgid "Your email: "
+msgstr ""
+
+#: scd_for_marketplace_install.php:377 scd_for_marketplace_install.php:684
+#: scd_for_marketplace_install.php:992 scd_for_marketplace_install.php:1300
+msgid ""
+"Your installation was not successful, please check that you have a good "
+"internet connection. You can retry the installation or cancel. Before "
+"canceling the installation you can download the plugin"
+msgstr ""
